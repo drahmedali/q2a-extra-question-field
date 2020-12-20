@@ -1,5 +1,5 @@
 # Q2A Extra Question Field Plugin
-[Ask people who will always reply you](https://www.meddean.com)
+[Ask people who will always reply you](https://www.askfy.me)
 Enhance your Extra Question field with file management. Add extra field on question: 
  1. textbox.
  2. textarea.
